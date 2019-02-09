@@ -1,0 +1,6 @@
+smultiworld.base.enabled: "%TITLE加載成功"
+smultiworld.utils.load.success: "世界'%1'加載成功"
+smultiworld.utils.load.failed: "世界'%1'加載失敗,原因未知"
+smultiworld.utils.load.alreadyLoaded: "世界'%1'已經加載過了"
+smultiworld.utils.load.nameInconsistency: "世界'%1'的文件夾名稱(%1)與level.dat(%2)的名稱不一致，可能會造成某些問題"
+smultiworld.utils.load.datFileNotExists: "世界'%1'的level.dat不存在,無法加載"

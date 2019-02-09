@@ -1,0 +1,7 @@
+name: "SMultiWorld-Lite"
+version: "1.0.0"
+api: ["1.0.0"]
+author: "hhm"
+description: "MultiWorld Plugin,By hhm"
+load: "STARTUP"
+main: "net.mcpes.hhm.mw.SMultiWorld"
