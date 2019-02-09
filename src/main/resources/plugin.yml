@@ -5,3 +5,4 @@ author: "hhm"
 description: "MultiWorld Plugin,By hhm"
 load: "STARTUP"
 main: "net.mcpes.hhm.mw.SMultiWorld"
+depend: ["KotlinLib","SGUI-API","SPluginBase"]
